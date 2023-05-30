@@ -9,7 +9,7 @@ const Hero = () => {
         <button
           type="button"
           onClick={() =>
-            window.open("https://github.com/Sugoto/OpenAI-Summarizer", "_blank")
+            window.open("https://github.com/Sugoto/Shortenz-AI-Summarizer", "_blank")
           }
           className="black_btn"
         >
